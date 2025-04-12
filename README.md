@@ -1,5 +1,3 @@
----
-
 # ⌨️ Keylogger
 
 **Keylogger** is a simple Python keylogging tool that captures and logs keystrokes into a file. Built using the `pynput` library, this project is intended for educational and testing purposes only. **Use responsibly and only on systems where you have explicit permission to do so.**
