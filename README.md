@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Disclaimer & Legal Notice](#disclaimer--legal-notice)
-- [Contributing](#contributing)
+- [Features](#features-)
+- [Requirements](#requirements-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [How It Works](#how-it-works-)
+- [Disclaimer & Legal Notice](#disclaimer--legal-notice-)
+- [Contributing](#contributing-)
 
 ---
 
@@ -102,13 +102,5 @@
 > Unauthorized use on systems without explicit permission is illegal and unethical.  
 > **I am not responsible for any misuse of this code.**  
 > Always obtain proper consent before using a keylogger or any similar monitoring tool.
-
----
-
-## Acknowledgements 🙏
-
-- **pynput Library:** For providing a straightforward way to access keyboard events in Python.
-- **Python Community:** For the continuous support and development of open-source tools and libraries.
-- **You:** For taking the time to learn about keystroke logging responsibly. Use your knowledge wisely!
 
 ---
